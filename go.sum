@@ -1,0 +1,6 @@
+github.com/akramov1ch/crypto v1.0.0 h1:zOw0g2Nrqs4nryhpyrXFS6jfA2vd8WvHTkrAOKuLpK8=
+github.com/akramov1ch/crypto v1.0.0/go.mod h1:9FqOcU2yRwbiOdCR2uqesymlPMUlp3vV+Y5GHLyNxus=
+golang.org/x/crypto v0.25.0 h1:ypSNr+bnYL2YhwoMt2zPxHFmbAN1KZs/njMG3hxUp30=
+golang.org/x/crypto v0.25.0/go.mod h1:T+wALwcMOSE0kXgUAnPAHqTLW+XHgcELELW8VaDgm/M=
+golang.org/x/sys v0.22.0 h1:RI27ohtqKCnwULzJLqkv897zojh5/DwS/ENaMzUOaWI=
+golang.org/x/sys v0.22.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
